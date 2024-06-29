@@ -1,43 +1,32 @@
 # MICROPROCESSOR
+
 ECE_VLSI_MICROPROCESSOR (SRAM system, ALU, Peripheral)
 
 - MICROPROCESSOR
 
-![image](https://github.com/seo459/MICROPROCESSOR/assets/72679290/702ecefa-8e4f-4d08-9282-accfdcc6cda8)
+![image](https://github.com/seo459/MICROPROCESSOR/assets/72679290/77b3ef5c-d45b-4487-8e5b-7ed8fd714395)
 
-![image](https://github.com/seo459/MICROPROCESSOR/assets/72679290/bb89f4e3-86ff-4c19-9aab-dec5f1c492ad)
+![image](https://github.com/seo459/MICROPROCESSOR/assets/72679290/34f8c09d-b5df-48fb-9531-a24758c2b180)
 
-![image](https://github.com/seo459/MICROPROCESSOR/assets/72679290/1f383bfe-ea43-42d7-8404-2d3781ad3b3f)
+![image](https://github.com/seo459/MICROPROCESSOR/assets/72679290/08414545-7205-4c6a-aaf9-3ec544bb9f6f)
 
-case1)
-![image](https://github.com/seo459/MICROPROCESSOR/assets/72679290/b213b85e-dda7-4545-89ee-f9f7486a9af5)
+![image](https://github.com/seo459/MICROPROCESSOR/assets/72679290/d8247cf8-700e-4101-b71c-201c1fb87251)
 
-case2)
-![image](https://github.com/seo459/MICROPROCESSOR/assets/72679290/286ed5c0-1fae-4c7c-8fda-ae9f7baf9b44)
-
-case3)
-![image](https://github.com/seo459/MICROPROCESSOR/assets/72679290/30bf9aa9-f8c5-4bfe-874e-4521949aec0a)
 
 - SRAM SYSTEM
 
-![image](https://github.com/seo459/MICROPROCESSOR/assets/72679290/79c69527-ad1a-4308-8a0b-e77d9798190e)
+![image](https://github.com/seo459/MICROPROCESSOR/assets/72679290/d42a93b8-f478-4eae-80e9-240c504d5133)
 
-![image](https://github.com/seo459/MICROPROCESSOR/assets/72679290/3dee6485-7588-49c0-af70-76a360d348ee)
+- SRAM Controller
 
-![image](https://github.com/seo459/MICROPROCESSOR/assets/72679290/dcf739ae-64fa-409b-a978-e025cc1d5000)
+![image](https://github.com/seo459/MICROPROCESSOR/assets/72679290/f8ae7c06-373b-4aa3-a3ee-efb34454b540)
 
 - DEMUX
 
-![image](https://github.com/seo459/MICROPROCESSOR/assets/72679290/1cbf2142-2f5d-4548-9cda-2c5e487e74c7)
+![image](https://github.com/seo459/MICROPROCESSOR/assets/72679290/ba4df93a-708a-4aba-bc99-73278da15725)
 
-![image](https://github.com/seo459/MICROPROCESSOR/assets/72679290/ec2529a4-3119-4fd3-9f76-f1beaf650b01)
+- Verification (using VerilogA, auto pattern generation)
 
-![image](https://github.com/seo459/MICROPROCESSOR/assets/72679290/ebc9f064-d148-45e3-8edd-189fdb9b0bfb)
+![image](https://github.com/seo459/MICROPROCESSOR/assets/72679290/d1f0f6f4-31ec-4f97-b209-eb310ea508eb)
 
-- ADDER (modifying sklansky)
-
-![image](https://github.com/seo459/MICROPROCESSOR/assets/72679290/d861f380-f72a-4a75-9e97-9b4059022aa4)
-
-![image](https://github.com/seo459/MICROPROCESSOR/assets/72679290/219e3964-9cc7-4ced-834c-4189aed74d61)
-
-![image](https://github.com/seo459/MICROPROCESSOR/assets/72679290/ef4f1116-d026-47a0-8be1-89d30d2ffa5c)
+![image](https://github.com/seo459/MICROPROCESSOR/assets/72679290/5de1f61a-b432-4b60-8a43-8a62310a94f2)
